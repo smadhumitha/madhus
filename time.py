@@ -6,5 +6,5 @@ print("enter the minutes");
 scanf(hr,min);
 hr=min/60
 min=min%60
-print("%d"\t%d,hr,min);
+print("%d"t%d,hr,min);
 }
